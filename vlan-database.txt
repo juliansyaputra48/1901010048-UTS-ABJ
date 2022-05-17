@@ -1,0 +1,2 @@
+VLAN ID: 2, VLAN NAME: HRD
+VLAN ID: 3, VLAN NAME: Marketing
